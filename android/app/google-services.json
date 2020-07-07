@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407055070199",
+    "firebase_url": "https://camppus-f598d.firebaseio.com",
+    "project_id": "camppus-f598d",
+    "storage_bucket": "camppus-f598d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407055070199:android:28fab6026ebb8a671eb4f2",
+        "android_client_info": {
+          "package_name": "com.camppus.camppus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407055070199-dk67i6va7ok746oh3v42kk6k3mebqst5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtaO9go_qGJRWKwetQEcL-73HeAtPwdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407055070199-dk67i6va7ok746oh3v42kk6k3mebqst5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
